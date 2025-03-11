@@ -1,4 +1,4 @@
-module API/AISKFKZ
+module github.com/zxcamon4ik/AISKFKZ
 
 go 1.24.1
 
