@@ -2,8 +2,8 @@ package main
 
 import (
     "github.com/gin-gonic/gin"
-    "github.com/zxcamo4ik/AISKFKZ/api/configs"
-    "github.com/zxcamo4ik/AISKFKZ/api/routes"
+    "API/configs"
+    "API/routes"
 )
 
 func main() {
