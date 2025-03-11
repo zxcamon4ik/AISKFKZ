@@ -7,4 +7,5 @@ import (
 
 func InitializeRoutes(r *gin.Engine){
 	r.GET("/",controllers.HelloWorld)
+	InitializeUserRoutes(r)
 }
